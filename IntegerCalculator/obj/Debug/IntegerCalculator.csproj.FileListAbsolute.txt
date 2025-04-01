@@ -1,0 +1,10 @@
+C:\Users\alekh\source\repos\IntegerCalculator\bin\Debug\IntegerCalculator.exe.config
+C:\Users\alekh\source\repos\IntegerCalculator\bin\Debug\IntegerCalculator.exe
+C:\Users\alekh\source\repos\IntegerCalculator\bin\Debug\IntegerCalculator.pdb
+C:\Users\alekh\source\repos\IntegerCalculator\obj\Debug\IntegerCalculator.csproj.AssemblyReference.cache
+C:\Users\alekh\source\repos\IntegerCalculator\obj\Debug\IntegerCalculator.CalculateForm.resources
+C:\Users\alekh\source\repos\IntegerCalculator\obj\Debug\IntegerCalculator.Properties.Resources.resources
+C:\Users\alekh\source\repos\IntegerCalculator\obj\Debug\IntegerCalculator.csproj.GenerateResource.cache
+C:\Users\alekh\source\repos\IntegerCalculator\obj\Debug\IntegerCalculator.csproj.CoreCompileInputs.cache
+C:\Users\alekh\source\repos\IntegerCalculator\obj\Debug\IntegerCalculator.exe
+C:\Users\alekh\source\repos\IntegerCalculator\obj\Debug\IntegerCalculator.pdb
